@@ -1,4 +1,4 @@
-# american standard 
+# amst
 
 维修平台server端
 
