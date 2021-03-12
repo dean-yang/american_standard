@@ -6,7 +6,9 @@ export const mongoose: typegoose.DefaultConfig = {
   options: { 
     useNewUrlParser: true, 
     useUnifiedTopology: true, 
-    dbName: 'amst'
+    dbName: 'amst',
+    user:'root',
+    pass:'amstRoot888'
   }
 }
 
